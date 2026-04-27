@@ -27,4 +27,4 @@ This project compares fundamental algorithms to understand their performance in 
 * **Do the results match the expected Big-O complexity?** Yes, the results match. Selection Sort's time grows quadratically ($O(n^2)$), while Quick Sort's time grows much slower, closer to $O(n \log n)$.
 * **Why does Binary Search require a sorted array?** Binary Search relies on the property that elements are ordered to decide whether to search in the left or right half. Without sorting, the 'divide and conquer' logic fails.
 
-* ![Execution Results](docs/screenshots/experiment_result.png)
+* ![Execution Results](experiment_result.png)
